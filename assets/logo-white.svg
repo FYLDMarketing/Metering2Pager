@@ -1,0 +1,30 @@
+<svg  viewBox="0 0 1267 459" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Page-1" serif:id="Page 1" transform="matrix(4.166667,0,0,4.166667,0,0)">
+        <rect x="0" y="0" width="304" height="110" style="fill:none;"/>
+        <g id="Layer-1" serif:id="Layer 1">
+            <rect x="30" y="30" width="50" height="50" style="fill:rgb(252,235,9);"/>
+        </g>
+        <g id="Layer-2" serif:id="Layer 2">
+        </g>
+        <g id="Layer-3" serif:id="Layer 3">
+            <g transform="matrix(1,0,0,1,65,53)">
+                <path d="M0,27L6,27L6,18L15,18L15,12L6,12L6,6L15,6L15,0L0,0L0,27Z" style="fill:rgb(36,40,42);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,41,41)">
+                <path d="M0,39L6,39L6,6L12,6L12,39L18,39L18,6L39,6L39,0L0,0L0,39Z" style="fill:rgb(36,40,42);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,115,41)">
+                <path d="M0,30L6,30L6,18L18,18L18,12L6,12L6,6L18,6L18,0L0,0L0,30Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,213,71)">
+                <path d="M0,-30L-6,-30L-6,0L12,0L12,-6L0,-6L0,-30Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,262,47)">
+                <path d="M0,18L-7,18L-7,0L0,0C4.065,0 7,4.239 7,9C7,13.761 4.065,18 0,18M0,-6L-13,-6L-13,24L0,24C7.704,24 13,16.781 13,9C13,1.219 7.704,-6 0,-6" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,170,61.8183)">
+                <path d="M0,-11.561L-9.182,-20.743L-13.425,-16.5L-3,-6.076L-3,9.182L3,9.182L3,-6.076L13.425,-16.5L9.182,-20.743L0,-11.561Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
